@@ -16,7 +16,4 @@
 <div>
   <a href="https://instagram.com/marcos_aaronrs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-aaron-4492132bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![Snake animation](https://github.com/MarcosAaronF0X/MarcosAaronF0X/blob/output/github-contribution-grid-snake.svg)
-
 </div>
